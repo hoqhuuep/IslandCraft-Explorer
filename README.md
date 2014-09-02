@@ -1,4 +1,4 @@
 IslandCraft-Explorer
 ====================
 
-IslandCraft-Explorer is a Java web application for previewing IslandCraft worlds.
+IslandCraft-Explorer is a web application for previewing IslandCraft worlds.
