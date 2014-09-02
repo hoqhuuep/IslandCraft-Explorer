@@ -21,7 +21,7 @@ worlds:
     # com.github.hoqhuuep.islandcraft.core.HexagonalIslandDistribution <island-size> <ocean-size>
     # com.github.hoqhuuep.islandcraft.core.SquareIslandDistribution <island-size> <ocean-size>
     # com.github.hoqhuuep.islandcraft.core.EmptyIslandDistribution
-    island-distribution: com.github.hoqhuuep.islandcraft.core.HexagonalIslandDistribution 288 2
+    island-distribution: com.github.hoqhuuep.islandcraft.core.HexagonalIslandDistribution 288 32
     # There is currently 2 options for island-generators. Please use one of:
     # com.github.hoqhuuep.islandcraft.core.ConstantIslandGenerator <biome>
     # com.github.hoqhuuep.islandcraft.core.IslandGeneratorAlpha <normal> <mountains> <hills> <hills-mountains> <forest> <forest-mountains> <outer-coast> <inner-coast> <river>
